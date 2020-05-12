@@ -1,0 +1,12 @@
+1. Implementati o stiva cu operatii push si pop folosind o lista. Push va insera elemente la inceputul listei si pop va sterge elemente de la inceputul listei.
+
+2. Implementati o coada care permite operatii (insertie & stergere) la ambele capete (double ended queue - dequeue)
+
+3. Fie un număr par n de tăruși distribuiți echidistant pe un cerc numerotați de la 1 la n (vezi figura). Țărușii trebuie legați cu fire metalice în așa fel încât aceste fire să nu se intersecteze.
+   Firele sunt reprezentate prin numere întregi, iar o soluție pentru problemă este dată printr-un vector de n întregi care reprezintă id-ul fiecărui fir asociat fiecărui tăruș. Doi țăruși i și j sunt conectați dacă au în dreptul lor același întreg (tarusi[i]==tarusi[j]).
+
+4. Spunem ca o imagine digitala binara M este o matrice de m x m elemente (pixeli) 0 sau 1. Un element a al matricei este adiacent cu b, daca b se afla deasupra, la dreapta, dedesubtul, sau la stanga lui a in imaginea M.
+   Spunem ca doi pixeli 1 adiacenti apartin aceleiasi componente. Problema va cere sa etichetati pixelii imaginii astfel incat doi pixeli primesc aceeasi eticheta daca si numai daca apartin aceleiasi componente.
+
+5. Fie v un vector de n componente intregi, neordonate.
+   Spunem ca un element este majoritar in v daca apare de cel putin n/2 + 1 ori in v.
