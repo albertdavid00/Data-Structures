@@ -1,0 +1,11 @@
+1. Implementati un min-heap cu urmatoarele operatii:
+	extragerea minimului din heap O(log n)
+	inserarea unei valori in heap O(log n)
+
+2. Implementati heap-sort pentru sortat crescator folosind implementarea de heap de la punctul 1 (cu sau fara heapify).
+
+3. Implementati Count Sort.
+   (Se numara elementele intr-un vector de frecvente)
+
+4. Implementati Radix Sort.
+   Implementati Radix sort pe biti, in care in loc sa sortam dupa cea mai nesemnificativa cifra, sortam dupa cei mai nesemnificativi 4 sau 8 biti.
